@@ -1,0 +1,61 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "icon": "1.png",
+      "type01": "grass",
+      "type02": "poison"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "icon": "2.png",
+      "type01": "grass",
+      "type02": "poison"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "icon": "3.png",
+      "type01": "grass",
+      "type02": "poison"
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "icon": "4.png",
+      "type01": "fire"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "icon": "5.png",
+      "type01": "fire"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "icon": "6.png",
+      "type01": "fire"
+    },
+    {
+      "id": 7,
+      "name": "squirtle",
+      "icon": "7.png",
+      "type01": "water"
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "icon": "25.png",
+      "type01": "electric"
+    },
+    {
+      "id": 151,
+      "name": "Testing",
+      "icon": "151.png",
+      "type01": "psychic"
+    }
+  ]
+}
